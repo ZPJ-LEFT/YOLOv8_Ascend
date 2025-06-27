@@ -27,7 +27,7 @@
 
 支持本机显示模式、远程登录模式两种方式。
 
-<img src='./Images/connections.png' width='600px'>
+<img src='./Images/Connections.png' width='600px'>
 
 下面主要介绍远程登录方式的过程。
 
